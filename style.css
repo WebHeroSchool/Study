@@ -1,0 +1,18 @@
+.body__quote_newspaper {
+  float: left;
+  width: 50%;
+  }
+
+.title_italics {
+  font: bold italic x-large Palatino, serif;
+  font-variant-caps: titling-caps;
+  text-decoration-line: underline;
+}
+
+.article_title {
+  font: large 100 "new century schoolbook", serif;
+}
+
+footer {
+  font: condensed oblique 12pt "Helvetica Neue", serif;
+}
