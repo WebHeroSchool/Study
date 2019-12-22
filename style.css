@@ -9,8 +9,9 @@
   text-decoration-line: underline;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
 .article_title {
-  font: large 100 "new century schoolbook", serif;
+ font-family: 'Russo One', sans-serif;
 }
 
 footer {
